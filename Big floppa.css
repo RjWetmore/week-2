@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+.header {
+    border: 7px solid black;
+    padding: 2px;
+}
+
+.menu {
+    width: 25%;
+    float: left;
+    padding: 15px;
+    border: 7px solid black;
+}
+.main {
+    width: 75%;
+    float: left;
+    padding: 15px;
+    border: 7px solid black;
+}
+img {
+    width: 100%;
+    height: auto;
+}
